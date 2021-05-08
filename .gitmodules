@@ -1,0 +1,3 @@
+[submodule "Assets/studios-utilities"]
+	path = Assets/studios-utilities
+	url = https://github.com/MartyBurgess/studios-utilities
